@@ -1,6 +1,6 @@
 # Nodejs-template
 
-A barebones Node.js template
+A barebones Node.js template w/ Mongoose
 
 ## Setup
 
